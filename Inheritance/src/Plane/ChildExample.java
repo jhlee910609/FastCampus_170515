@@ -8,9 +8,6 @@ public class ChildExample {
 		Parent parent = child;
 		parent.method1();
 		parent.method2();
-		parent.me
-		
-
 	}
 
 }
