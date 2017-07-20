@@ -8,10 +8,9 @@ public class BasicMain {
 	// *** 코딩할 때, 중요하진 않지만 면접 문제 ***
 	// 넘겨주는 값 = 아규먼트, 함수 정의할 때의 값 없는 변수 = 파라미
 	// 값 불러오는 시점이 언제냐에 따라 다르다.
-	// 메서드 작성 시 = 파라미터 (parameter)
-	// 실제로 값을 넣을 때 = 아규먼트 (argument)
-	// args 대신 params 입력해도 됨
-	// 그래서 파라미터와 아규먼트를 '인자'라고 함.
+	// 메서드 작성 시, void plus(int x, int y) = x,y는 파라미터 (parameter)
+	// 실제로 파라미터(parameter)에 대입하는 구체적인 값, 인 = 아규먼트 (argument)
+	// 구체적인 차이가 좀 있지만 파라미터와 아규먼트를 통칭 '인자'라고 함.
 
 	public static void main(String args[]) {
 		

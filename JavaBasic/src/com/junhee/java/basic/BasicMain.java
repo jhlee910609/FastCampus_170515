@@ -19,10 +19,6 @@ public class BasicMain {
 		// 아래와 같이 사용해도 됨.
 		// 값을 리턴해주만 별도 저장되진 않음 (
 		int bbb = sub.함수명();
-		
-		
-		
-		
 	}
 
 	class 객체이름 {
